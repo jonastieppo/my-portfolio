@@ -3,26 +3,27 @@ import React from 'react';
 // Main App component
 function App() {
   return (
-    <div className="min-h-screen bg-gray-100 font-sans antialiased flex flex-col items-center py-8 px-4 sm:px-6 lg:px-8">
-      <div className="max-w-4xl w-full bg-white rounded-lg shadow-xl overflow-hidden">
-        {/* Header Section */}
-        <Header />
+  //   <div className="min-h-screen bg-gray-100 font-sans antialiased flex flex-col items-center py-8 px-4 sm:px-6 lg:px-8">
+  //     <div className="max-w-4xl w-full bg-white rounded-lg shadow-xl overflow-hidden">
+  //       {/* Header Section */}
+  //       <Header />
 
-        <main className="p-6 sm:p-8 lg:p-10">
-          {/* Skills Section */}
-          <Skills />
+  //       <main className="p-6 sm:p-8 lg:p-10">
+  //         {/* Skills Section */}
+  //         <Skills />
 
-          {/* Experience Section */}
-          <Experience />
+  //         {/* Experience Section */}
+  //         <Experience />
 
-          {/* Education Section */}
-          <Education />
-        </main>
+  //         {/* Education Section */}
+  //         <Education />
+  //       </main>
 
-        {/* Footer Section */}
-        <Footer />
-      </div>
-    </div>
+  //       {/* Footer Section */}
+  //       <Footer />
+  //     </div>
+  //   </div>
+  <h1>Hello World</h1>
   );
 }
 
