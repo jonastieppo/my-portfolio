@@ -1,9 +1,9 @@
 {
   "name": "my-portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/jonastieppo/my-portfolio",
+  "homepage": "https://jonastieppo.github.io/my-portfolio/",
   "private": true,
-  "proxy":"https://github.com/jonastieppo/my-portfolio",
+  "proxy":"https://jonastieppo.github.io/my-portfolio/",
   "dependencies": {
     "@tailwindcss/vite": "^4.1.11",
     "@testing-library/dom": "^10.4.0",
