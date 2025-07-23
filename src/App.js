@@ -37,12 +37,12 @@ const Header = () => {
           <p className="text-md sm:text-lg mt-2">São Leopoldo, Rio Grande do Sul, Brazil</p>
         </div>
         <div className="flex flex-col items-center sm:items-end space-y-2">
-          <a href="mailto:jonastieppo@yahoo.com.br" className="text-white hover:underline flex items-center">
+          <a href="mailto:jonas.tieppo.rocha@gmail.com" className="text-white hover:underline flex items-center">
             <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-2" viewBox="0 0 20 20" fill="currentColor">
               <path d="M2.003 5.884L10 9.882l7.997-3.998A2 2 0 0016 4H4a2 2 0 00-1.997 1.884z" />
               <path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z" />
             </svg>
-            jonastieppo@yahoo.com.br
+            jonas.tieppo.rocha@gmail.com
           </a>
           <a href="https://www.linkedin.com/in/jonastieppo" target="_blank" rel="noopener noreferrer" className="text-white hover:underline flex items-center">
             <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-2" viewBox="0 0 24 24" fill="currentColor">
